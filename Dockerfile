@@ -1,7 +1,3 @@
-
-export DOCKER_BUILDKIT=0
-export COMPOSE_DOCKER_CLI_BUILD=0
-
 # use a node base image
 FROM node:7-onbuild
 
